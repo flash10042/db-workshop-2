@@ -41,7 +41,9 @@ config.py**
 ## Логічна ERD
 ![Логічна ERD](https://github.com/flash10042/db-workshop-2/blob/main/ERD/Logical.png)
 
-## Фізична ERD
+## Фізична ERD 
+(Деякі поля мають іншу назву. Щоб це побачити необхідно завантажити репозиторій та відкрити зображення локально)
+
 ![Фізична ERD](https://github.com/flash10042/db-workshop-2/blob/main/ERD/Physical.png)
 
 ## Опис атрибутів ERD
